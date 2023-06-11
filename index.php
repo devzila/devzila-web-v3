@@ -18,7 +18,7 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
           <h1>Better Solutions For Your Business</h1>
-          <h2>Devzila is home to the most talented Ruby on Rails, React, and React Native software developers.</h2>
+          <h2>Devzila is home to the most talented Ruby on Rails, MERN, and React Native software developers.</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started scrollto">GET THE FACTS</a>
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -76,24 +76,26 @@
         <div class="section-title">
           <h2>Your own and exclusive engineering and design team</h2>
           <p>
-            If you can’t find them anywhere, is because we have them. Add members of our talented crew to your project at competitive rates.
+            <strong>If you can’t find them anywhere, is because we have them. Add members of our talented crew to your project at competitive rates.</strong>
           </p>
         </div>
 
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> We Are A Group of Passionate Ruby and Node Developer. Hire experts well-versed 
+                with the latest tools and technologies to deliver exceptional applications
+              </li>
+              <li><i class="ri-check-double-line"></i> With over a decade of experience in developing, maintaining and deploying a varied range of RoR and MERN solutions</li>
+              <li><i class="ri-check-double-line"></i> Time-tested solutions, experience & thoughts on web & mobile development, tonnes of remote work hacks. We help non-technical founders grow successful distributed teams.</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> Our unique mix of skills allows us to have a wide offering including consultancy, design, architecture, development, operations, training, and support—without the overheads</li>
+              <li><i class="ri-check-double-line"></i> We employ technologies up to date with the latest industry standards.</li>
+              <li><i class="ri-check-double-line"></i> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
             </ul>
           </div>
           <div class="text-center"><a href="#" class="btn-learn-more">Learn More</a></div>
