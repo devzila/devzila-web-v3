@@ -76,7 +76,7 @@
         <div class="section-title">
           <h2>Your own and exclusive engineering and design team</h2>
           <p>
-            <strong>If you can’t find them anywhere, is because we have them. Add members of our talented crew to your project at competitive rates.</strong>
+            <strong>IF you can’t find them anywhere, is because we have them. Add members of our talented crew to your project at competitive rates.</strong>
           </p>
         </div>
 
