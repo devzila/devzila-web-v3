@@ -9,31 +9,35 @@
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+            aria-expanded="false">
+            Services
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <ul>
-              <li><a href="#">Home</a></li>
-              <li class="dropdown"><a href="#"><span>Our Services</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="ror_application_development.php">ROR Application Development</a></li>
-                  <li><a href="#">MERN Stack Development</a></li>
-                  <li><a href="#">Mobile App Development</a></li>
-                  <li><a href="#">API Driven Development</a></li>
-                  <li><a href="#">UI UX Design Services</a></li>
-                </ul>
-              </li>
-              <li class="dropdown"><a href="#"><span> Services</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Spree Commerce Development</a></li>
-                  <li><a href="#">SaaS Application Development</a></li>
-                  <li><a href="#">MVP Development</a></li>
-                  <li><a href="#">App Support & Maintainence</a></li>
-                  <li><a href="#">Rails Upgrade Service</a></li>
-                </ul>
-              </li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Contact Us</a></li>
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
             </ul>
-          </li>
+            <ul>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+            </ul>
+            <ul>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+              <li><a class="dropdown-item" href="#">Mega Menu Link</a></li>
+            </ul>
+          </div>
+        </li>
+          
           <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <!--
