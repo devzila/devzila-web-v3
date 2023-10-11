@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  <?php $title = "Devzila Contact Us" ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
