@@ -1,7 +1,7 @@
 <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Devzila. Excelence Always!</title>
+  <title><?php echo isset($title) ? $title : "Devzila. Excelence Always!" ?></title>
   <meta content="Ruby on Rails" name="description">
   <meta content="Ruby Rails Sidekiq React.js" name="keywords">
 
