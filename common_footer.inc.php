@@ -6,32 +6,32 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="term-services.php">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.php">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">ROR Application Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">MERN Stack Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Mobile App Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">API Driven Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">UI UX Design Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="ror-application-development.php">ROR Application Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="mern-stack-development.php">MERN Stack Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="mobile-app-development.php">Mobile App Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="api-driven-development.php">API Driven Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="ui-ux-design-services.php">UI UX Design Services</a></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>&nbsp;</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Spree Commerce Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">SaaS Application Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">MVP Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">App Support & Maintainence</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Rails Upgrade Service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="spree-commerce-development.php">Spree Commerce Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="saas-application-development.php">SaaS Application Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="mvp-development.php">MVP Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="app-support-development.php">App Support & Maintainence</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="rails-upgrade-service.php">Rails Upgrade Service</a></li>
             </ul>
           </div>
 

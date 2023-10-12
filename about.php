@@ -115,7 +115,7 @@
         </div>
 
         <div class="row">
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"> <img src="assets/img/ui.png"></div>
               <h4><a href="">UI/UX Design</a></h4>
@@ -159,10 +159,10 @@
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Call To Action</h3>
-            <p> Not sure where to start your product development project? No worries! We’ll help you step by step with design, technology and team choices. You’ll end up with a product plan and resource estimations to plan ahead with greater accuracy.</p>
+            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="contact_us.php">Call To Action</a>
+            <a class="cta-btn align-middle" href="#">Call To Action</a>
           </div>
         </div>
 
