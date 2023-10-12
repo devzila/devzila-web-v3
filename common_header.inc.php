@@ -48,7 +48,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha2/dist/js/bootstrap.bundle.min.js"></script>
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.php">Devzila</a></h1>
+      <a href="index.php" class="logo me-auto"><img src="/assets/img/devzila_full_logo.svg" height="40"/></a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
