@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  <?php $title = "Devzila App Support Development " ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          
+         <h1>Application Support And Maintenance</h1>
           <div class="d-flex justify-content-center justify-content-lg-start">
             
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -34,14 +35,138 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Devzila Application Services & Maintenance Helps Businesses Thrive In Today’s Dynamic, Global & Mobile Environment By Maximizing Business Value From Existing & New Technologies.</h2>
+          <p>
+          In today’s environment, businesses are highly dependent on IT systems for day-to-day operations. All of the complex business processes are supported on computer software and hardware. However, just as people are susceptible to making mistakes, software and hardware make errors, too. Therefore, every company must have application support and maintenance, to ensure that these business applications run successfully and are error free.
+          </p><br>
+          <p>Application Support and Maintenance is an important element towards enhancing and extending the life of the applications. Devzila's Ruby on Rails application support service ensures your business applications are managed and operated seamlessly to provide secure and high performance platform. Our comprehensive set of frameworks, proven methodologies, 24/7 support, process compliance and domain expertise help enable our customers to achieve.</p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
    
     <!-- ======= Team Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Why Devzila For Application Support & Maintenance?</h2>
+          <p>
+          Our comprehensive set of frameworks, proven methodologies, 24/7 support, process compliance and domain expertise help enable our customers to achieve.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
     
 
     <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href=""></a></h4>
+              <h3>24x7 Support</h3>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href=""></a></h4>
+              <h3>Flexible AMC Contracts and Engagement Models</h3>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href=""></a></h4>
+              <h3>Security Upgrades</h3>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href=""></a></h4>
+              <h3>Multiple Point of Contacts</h3>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+
   
     <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container" data-aos="zoom-in">
+
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-start">
+            <h3>Development Stack</h3>
+            <p>Development tools are the key to business success. At Devzila, we use industry specific tools to effectively scale your business and develop new products faster than before.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle nav-link" href="contact_us.php">Contact us</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
     <!-- End Cta Section -->
+    <section id="clients" class="clients section-bg">
+      <div class="container">
+      <div class="section-title">
+          <h2>Our Clients</h2>
+      </div>
+
+        <div class="row" data-aos="zoom-in">
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Cliens Section -->
+
 
     <!-- ======= Contact Section ======= -->
     <!--

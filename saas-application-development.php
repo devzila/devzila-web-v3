@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  <?php $title = "Devzila SaaS Application Development " ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          
+          <h1> SaaS Application Development</h1>
           <div class="d-flex justify-content-center justify-content-lg-start">
             
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -34,14 +35,273 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Accelerate Accomplishments, Instigate Engagement And Ignite Inspiration With Devzila’s SaaS solutions.</h2>
+          <p>
+          Productivity and performance – these are two mainstays of success for any organization. The world is spinning faster than ever with business market becoming more and more brutally competitive, to survive and flourish in this business jungle, your organization must remain proficient in innovation. However, if innovation has this potential, what stops businesses from using it to power their organization’s success? The answer lies in the overwhelming challenge of managing existing IT infrastructure consisting of complicated sets of heterogeneous components. So what can be used to turn IT challenges into successful innovation? With RailsCarma’s SaaS (Software as a Services) Application Development on RoR, you benefit from a complete range of business applications, expertise-rich solutions, lowered IT costs and improved flexibility.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
    
     <!-- ======= Team Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>What SaaS ?</h2>
+          <p>
+          Software as a service (SaaS) is a cloud based software application delivery model of one application to many users over the internet on a subscription basis. Also referred to as on-demand software, it allows activities to be hosted from a central location.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
     
 
     <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Our SaaS Services</h2>
+          <h3> We are SaaS based product development company with experience in building industry leading Software-as-a-Service applications. Our SaaS services include the following:</h3>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href="">SaaS Application Development</a></h4>
+              <p>We have long experience in domain which enables us to help startups plan and deploy their SaaS application strategy effectively..</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Mobile SaaS Development</a></h4>
+              <p>We can bring your SaaS solution to Mobile platform. We are experts in all native and hybrid mobile application platforms.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">3-rd Party Integration Service</a></h4>
+              <p>From developing custom APIs and linking external data sources to adding payment gateways, all third-party integrations are done.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">On-Demand SaaS Service</a></h4>
+              <p>SAAS app owners need the power of the cloud backing to deliver on-demand service, from deploying to managing the apps on the cloud.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href="">App Design & Development</a></h4>
+              <p>We are an end-to-end SaaS solution provider converting your ideas into robust and expandable Software-as-a-Service applications.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Multi-Tenant Saas Architecture</a></h4>
+              <p>We help technology vendors with optimal resource sharing by planning and implementing multi-tenant management tools.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
   
     <!-- ======= Cta Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Why SaaS Application Development</h2>
+          <p>
+          Apart from being reliability and security, SaaS application development as well as ensures:
+          </p>
+        </div>
+        <div class="row content">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Better accessibility
+              <li><i class="ri-check-double-line"></i> Easy customization and monitor</li>
+              <li><i class="ri-check-double-line"></i> Single/Multitenant architecture</li>
+            </ul>
+          </div>
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Point & click for updates</li>
+              <li><i class="ri-check-double-line"></i> No performance issue</li>
+              <li><i class="ri-check-double-line"></i> No compatibility issue with other platforms</li>
+            </ul>
+          </div>
+          
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
     <!-- End Cta Section -->
+
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Cloud Make Your SaaS Truly On-Demand</h2>
+          <h3> The use of cloud computing gives SaaS solutions a handful of benefits:</h3>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href="">Cost efficiency</a></h4>
+              <p>There’s no need to buy and maintain expensive hardware, and you only pay for the resources your app uses.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Scalability</a></h4>
+              <p>If your requirements increase, you can upgrade your plan in a few clicks. Downgrades are also possible.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Reliability</a></h4>
+              <p>A cloud is a network of servers that can be located around the world. Even if one server goes down, your app will remain online.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Security</a></h4>
+              <p>Cloud service providers pay close attention to security to ensure your data is stored in a safe place.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- End Services Section -->
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>SaaS Development Process</h2>
+          <p>
+          Our SaaS development process covers consultancy, planning, designing, development, testing, 3rd party integration, and ongoing support and maintenance.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End About Us Section -->
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>What Makes Us Different?</h2>
+          <p>
+          We are the top SaaS application development company with hands-on experience in creating top-performing rebost applications.
+          </p>
+        </div>
+        <div class="row content">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Browse through a sampling of our projects reflecting our ability to create innovative and ingenious solutions.
+              <li><i class="ri-check-double-line"></i> We have an adept team with best of breed technologies to change the growth story of any business.</li>
+              
+            </ul>
+          </div>
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> We specialize in providing strategic insights for an elevated level of visibility.</li>
+              <li><i class="ri-check-double-line"></i> We employ structured methodology for accelerated results.</li>
+            </ul>
+          </div>
+        </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End About Us Section -->
+
+    <section id="clients" class="clients section-bg">
+      <div class="container">
+      <div class="section-title">
+          <h2>Our Clients</h2>
+      </div>
+
+        <div class="row" data-aos="zoom-in">
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Cliens Section -->
+
 
     <!-- ======= Contact Section ======= -->
     <!--

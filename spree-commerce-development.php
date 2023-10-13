@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+ <?php $title = "Devzila Spree Commerce Development " ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          
+          <h1> Spree Commerce Development</h1>
           <div class="d-flex justify-content-center justify-content-lg-start">
             
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -34,14 +35,231 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>We Build Highly Interactive And Scalable Ecommerce Solutions Based On Spree Commerce</h2>
+          <p>
+          Spree Commerce is a popular open source eCommerce platform based on the Ruby on Rails framework. It is powering around 50,000 retail stores worldwide today and has more than 500 contributors. We are having expirenced Spree Commerce developers who are expert in building online stores in Ruby on Rails. For any kind of spree commerce development requirement, talk to our experts.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
    
     <!-- ======= Team Section ======= -->
     
 
 
     <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">No Complexity, Easy to use</a></h4>
+              <p>It is very easy to install and configure Spree. Adding functionalities and integrations with other platforms and services is a cakewalk. The user interface is clean and simple as well.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Built on Ruby on Rails</a></h4>
+              <p>Spree is created on top of the hugely popular and robust Ruby on Rails framework that empowers agile dispatch, easier changes, brings cost-efficiency and takes lesser time to market.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">No License Fee</a></h4>
+              <p>Being completely open source, there is no license fee involved in procuring Spree. There aren’t different free or enterprise editions either. It’s the same software suited for one and all – small, medium or large businesses</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Mobile Compatibility</a></h4>
+              <p>The responsive UI design of Spree lets you run your store on smart-phones and tablets seamlessly.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href="">Integration with Other Services</a></h4>
+              <p>Wombat – the integration platform lets you connect your store to key third party systems as well as your own custom built integrations.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">A Complete Solution</a></h4>
+              <p>Spree is a complete solution with features such as Product Catalogue, Marketing & Promotions, Payments, Shipping, Analytics & Reporting, SEO and more.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End Services Section -->
   
     <!-- ======= Cta Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Why Devzila For Spree Commerce ?</h2>
+        </div>
+        <div class="row content">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> With over 17 years of experience, Devzila has worked with startups and enterprise clients alike. We have an excellent track record of quality delivery across industries and geographies.
+              <li><i class="ri-check-double-line"></i> Our team comprises of Spree e-commerce store development experts who can customize the platform to any extent to suit your unique business needs.</li>
+            </ul>
+          </div>
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Devzila can develop, deploy, manage and scale your ecommerce store, all under one roof.</li>
+              
+            </ul>
+          </div>
+          
+        </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End About Us Section -->
+
+
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4>Spree eCommerce Store Development</h4>
+              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4>Spree Store customization</h4>
+              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4>Spree Theme Development</h4>
+              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4>Spree Theme Customization</h4>
+              
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4>Custom Spree extension development</h4>
+            </div>
+          </div>
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4>Migration To Spree</h4>
+            </div>
+          </div>
+
+          
+          
+          
+        </div>
+
+      </div>
+    </section>
+    <!-- End Services Section -->
+
+    <section id="clients" class="clients section-bg">
+      <div class="container">
+      <div class="section-title">
+          <h2>Our Clients</h2>
+      </div>
+
+        <div class="row" data-aos="zoom-in">
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Cliens Section -->
+
+
     <!-- End Cta Section -->
 
     <!-- ======= Contact Section ======= -->

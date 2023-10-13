@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  <?php $title = "Devzila Mobile App Development" ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,6 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h1>Mobile Application Development</h1>
           
           <div class="d-flex justify-content-center justify-content-lg-start">
             
@@ -34,10 +36,68 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>End-to-end Mobile Application Development For Delivering Stellar Mobile Experiences</h2>
+          <p>
+            <strong>The world has gone mobile and your business strategy should be mobile first! At Devzila, we provide world class customized high performance mobile solutions for all mobile platforms. Developing feature-rich mobile apps in an assortment of domains, our technology proficiency covers iOS, Android, Windows Phones as well as Hybrid App. With concerted focus on security, performance and usability, we use the concepts of agile software development while building the mobile applications to ensure rapid delivery, improved business value, improved quality and overall win-win setup. By providing an entire gamut of mobile application development services, Devzila helps you accelerate growth and increase productivity and business value.
+</strong>
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
    
     <!-- ======= Team Section ======= -->
     
     <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2> Development Services</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href="">Android App Development</a></h4>
+              <p>We offer a range of Android applications built from the ground up to leverage the fastest growing Android mobile platform. At Devzila, we conceptualize, design and develop customized applications to deliver scalable and innovative applications. We are backed by strong and experienced workforce of over 100+developers, usability architects, designers, testers and project managers to help you execute your idea.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">iOS App Development</a></h4>
+              <p>We are the one-stop solutions for all things iOS. Backed by a team of over 100+developers, usability architects, designers, testers and project managers, our high speed iOS app development capability, exceptional product quality and competitive development costs makes us the best choice for any businesses. From research, design, development and deployment, we provide robust, end-to-end, high quality, and feature abundant iOS apps.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Hybrid App Development</a></h4>
+              <p>Built using HTML, CSS and Java Script, Hybrid Mobile Applications are targeted to WebView embedded inside a native container, instead of targeting to web browsers. We develop intuitive, secure and high performance hybrid apps to bring your ideas to reality. With a proven hybrid application development methodology, we provide scalable, elegant and engaging hybrid application.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Development Stack</a></h4>
+              <p>Development tools are the key to business success. At Devzila, we use industry specific tools to effectively scale your business and develop new products faster than before.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
   
     <!-- ======= Cta Section ======= -->
     <!-- End Cta Section -->

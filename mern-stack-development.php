@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+ <?php $title = "Devzila MERN Stack Development " ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,6 +18,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h1> MERN Stack Development Company</h1>
+          <h2>As the leading MERN stack development company in USA, and&nbsp; INDIA we provide custom MERN stack development services.The underlying technologies of MERN Stack that Devzila specialize in are MongoDB, Express.js, React.js and  Nodejs .</h2>
           
           <div class="d-flex justify-content-center justify-content-lg-start">
             
@@ -40,9 +43,170 @@
 
 
     <!-- ======= Services Section ======= -->
-  
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>We Provide A Wide Array Of MERN Stack Development Services</h2>
+          <h3> Utilizing MERN technology to provide tailored web solutions</h3>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href="">Enterprise Application Development</a></h4>
+              <p>Develop enterprise-grade web applications with RailsCarma. By combining MERN technologies with cutting-edge enterprise solutions, we can develop cutting-edge solutions. The solutions we create are tailored for high-intensive workloads and are designed specifically for enterprise customers.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Custom Application Development</a></h4>
+              <p>We Build dynamic web applications and websites using MERN Stack is possible across a wide range of business verticals. To provide quality and standards-compliant solutions tailored to your needs, our MERN stack developers use the best coding approaches and methodologies.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Web Application Development</a></h4>
+              <p>We Design and develop web applications that are fast, secure, dynamic, and well-suited to various kinds of businesses. MERN developers are well-versed in the underlying technologies and can deliver rich user experiences and excellent functionality with complex web applications.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">CMS Development</a></h4>
+              <p>Using our expertise and deep knowledge of MERN stack development, we will create a highly-performance, feature-rich, scalable, secure, user-friendly, and scalable content management system. Our CMS will be robust and feature-rich.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">eCommerce Application Development</a></h4>
+              <p>Take advantage of our expertise as a MERN stack development company to create a variety of solutions. Ecommerce solutions are another area in which our MERN stack developers excel. Dashboards for ecommerce sites can be built by our developers in a responsive, intuitive, and secure way.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Porting & Migration</a></h4>
+              <p>Our proficiency extends to migrating and porting business applications and platforms to MERN Stack-based frameworks. For migration or porting of your application, you can hire a MERN Stack developer.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Advantages Of Choosing Our MERN Stack Development Services</h2>
+          <h3> Utilizing MERN technology to provide tailored web solutions</h3>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Scalable to any size</a></h4>
+              <p>The website or web application you receive will be highly scalable.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Ensure security</a></h4>
+              <p>You can rely on us to integrate the best security features and functionality into your app or website.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">A mobile-friendly website</a></h4>
+              <p>Regardless of the device, we will develop a responsive web app or site.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">The best UI/UX</a></h4>
+              <p>There will be a great look and feel to your web app or website, which will entice users.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
     <!-- ======= Cta Section ======= -->
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>We work with MERN Stack web development technologies</h2>
+          <p>
+            <strong>Develop web applications that are fast, smooth, and powerful based on your enterprise requirements.</strong>
+          </p>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Framework for Javascript - NodeJS, ReactJS, AngularJS, and VueJS
+              </li>
+              <li><i class="ri-check-double-line"></i> Technologies for the web - YII | WordPress | Magento | WOO | Shopify | PrestaShop | CodeIgniter | Laravel | MERN | MEAN | LAMP</li>
+              <li><i class="ri-check-double-line"></i> The database FireBase, MySQL, and PostgreSQL</li>
+            </ul>
+          </div>
+
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Technologies for mobile devices React Native, Swift, and Java</li>
+              <li><i class="ri-check-double-line"></i> We employ technologies up to date with the latest industry standards.</li>
+              <li><i class="ri-check-double-line"></i> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
     <!-- End Cta Section -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Get MERN Stack Development Services To Develop Feature-packed Web Apps</h2>
+          <p>
+            <strong>We provide MERN stack development services that are dependable and knowledgeable. You can count on us for unparalleled collaboration satisfaction thanks to our security and performance capabilities. To help you achieve your goals, we respond quickly to your requests and solve your business problems consistently. There is a high level of commitment and knowledge among our MERN developers. We will be able to understand your specific needs with readiness better if you explain your website and application specifications. With our agility, you can focus on what matters while we take care of the selection and deployment. We offer affordable MERN Stack development services. To meet your current and future needs, we offer the most comprehensive portfolio of services. Due to our MERN expertise, unlike others in the same domain, we can streamline communication and resolve problems more quickly.
+</strong>
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+   
 
     <!-- ======= Contact Section ======= -->
     <!--

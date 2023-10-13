@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+ <?php $title = "Devzila MVP Development " ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,6 +18,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h1>MVP Development Company</h1>
+          <h2> A well-balanced MVP is the most cost-effective and time-efficient approach to explore the possibilities of your concept. By utilizing MVP development services, you can demonstrate to investors that your concept is worth investigating and that you can test your product on a real audience prior to a large-scale market launch.</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -33,6 +36,155 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Our MVP Development Services</h2>
+          <p>
+            In the startup environment, the notion of a MVP was developed and it is now utilized by firms of all sizes to evaluate new products. It's only natural that you'd want to publish your new MVP as soon as possible to satisfy your company's general objectives as well as the demands of your unique product. Stump up only with the demands to build MVP; yup, we take up the entire process to deliver them.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>The edge of MVP development services: -</h2>
+          <p>
+          The right balance between the business offering to users and what they actually need is entirely carried forward within a budget and this acts as a prerequisite for a successful new product development process. From prototyping, and development to release, we take care of all the processes wherein you initiate the process only with the demands and concepts. The end-to-end discovery and MVP planning is conceptualized and a base architecture is derived to generate the project ideas and the ideal timeframe will be 6 to 8 weeks. Our team works effectively and we have our best MVP developers who are inclined towards achieving the same. We integrate the user feedback and suggestions and pull the ideas based on experience to save time. The team validates the client demands’, identifies the risks, and updates the features by adjusting the same with a risk management plan. We build the right product by having only the things on high priority but with minimal features – leading to cost-effective MVP development.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Our MVP Development Process</h2>
+          <h3> Our MVP development process is very unique and its convenient to see. Our process involves in five steps:</h3>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href="">Product discovery</a></h4>
+    
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">  Approach and Estimate  </a></h4>
+              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">  Design and Development </a></h4>
+              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Agile Development</a></h4>
+              
+            </div>
+          </div>
+          <div class="row content">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Firstly, we will aim our target and start the process of core features and solve the problems.
+              <li><i class="ri-check-double-line"></i> Secondly, we approach, estimate; see the tech and the architecture.</li>
+              <li><i class="ri-check-double-line"></i> Next comes to design and its development, here we make sure whether design is building and developing or not.</li>
+            </ul>
+          </div>
+
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> We will add feedback according to customer and add more features</li>
+              <li><i class="ri-check-double-line"></i> And finally, we will launch it and maintain the feedback and improve us.</li>
+              
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Benefits of MVP Development</h2>
+          <h3>
+          What can be better for making your item client complacent?.</h3>
+          <p>To turn the ideas into products and to quickly proffer those bare-bones into successful results, our team helps to achieve the needs. The major idea to build a product is to perform the best business marketing approach and to ensure the advancement of the product. By building a MVP product, the businesses will gain ultimate technical insights from design perspective and will help them to turn ‘UNIQUE’.</p>
+        </div>
+        <div class="row content">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> MVP developments will help businesses to create a useable prototype of the product and to access the ideas and ensure the correctness of the business plan.
+              <li><i class="ri-check-double-line"></i> Validation testing is performed which will benefit the user by focusing on giving valuable feedback on the UI experience.</li>
+              <li><i class="ri-check-double-line"></i> The team will be able to think thoroughly about the product architecture and it acts as a chance to influence the development process.</li>
+            </ul>
+          </div>
+
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> As we build the product and test the experience and viability, it will drive the product vision in the right direction and also it helps to get a transparent and solidified picture in the market scenarios.</li>
+              
+            </ul>
+          </div>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Why Choose Devzila For MVP Development?</h2>
+          <h3>To obtain and act upon customer feedback as soon as possible</h3>
+          <p>
+          From an underlying studio to deliver, we've shown to be an exceptionally powerful MVP advancement organization. We don't simply offer advancement administrations, yet in addition, plan, perform UX and UI and proffer continuous help and support. We also have the best coders and we all work unitedly by making our place in various industries and we have built around 20+ MVP products.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Hire MVP Product Developers</h2>
+          <h3>The seasoned and experienced developers</h3>
+          <p>
+          You can also hire us as we have the dedicated team and we value your time. Our developers follow a specific hierarchy of working and go through the agile methodology for the least viable product development. The skills and expertise with front-end, back-end, and full-stack development to build an MVP application can be put in place with our team of product developers.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
    
     <!-- ======= Team Section ======= -->
     

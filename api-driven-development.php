@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+ <?php $title = "Devzila API Driven Development " ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,6 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h1>API Driven Development</h1>
           
           <div class="d-flex justify-content-center justify-content-lg-start">
             
@@ -34,13 +36,154 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
-   
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Discover Accelerated Software Innovation With Our Custom API-Driven Solutions</h2>
+          <p>
+          With strong expertise in Application Programming Interface (API) development services we have delivered a wide range of applications to clients around the globe. We have worked with over 25 clients from USA, UK, Australia, UAE and Singapore.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>What Are API's</h2>
+          <p>
+          APIs, or Application Program Interfaces, refer to software solutions for seamless interactions between multiple mission-critical applications. They also help developers interact with their apps in a more efficient manner. APIs make it easy to connect mobile apps to the cloud as well, through backend-as-a-service (BaaS).
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Why API-Driven Development Model?</h2>
+          <p>
+          The most important aspect of “Why APIs?” is that it brings in the standardization of interfaces in the development process. Developers get to work on structured and standardized APIs that are bound to not change their underlying behavior, irrespective of the technology or components used underneath. APIs also take care of hiding the complexity of underlying implementation, bringing in modularity and separation of concerns, which lets independent decoupled services to be implemented and tested. Other subsidiary services (such as user management, logging, dashboards, deployment, etc.) are made available by calling these services (third-party or in-house services) through APIs. This speeds up the app development time manifold.
+          </p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
     <!-- ======= Team Section ======= -->
     
 
     <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Devzila API Development & Service Delivery Capabilities</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"> </div>
+              <h4><a href=""></a></h4>
+              <h3>Writing new API endpoints and documentation.</h3>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href=""></a></h4>
+              <h3>Collaborating developed APIs to suite client requirements.</h3>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href=""></a></h4>
+              <h3>Changing and evolving custom APIs based on the needs of clients.</h3>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href=""></a></h4>
+              <h3>Maintenance and support of Existing APIs.</h3>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+
   
     <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container" data-aos="zoom-in">
+
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-start">
+            <h3>Development Stack</h3>
+            <p> Development tools are the key to business success. At Devzila, we use industry specific tools to effectively scale your business and develop new products faster than before..</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle nav-link" href="contact_us.php">Contact us</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+
+    <section id="clients" class="clients section-bg">
+      <div class="container">
+      <div class="section-title">
+          <h2>Our Clients</h2>
+      </div>
+
+        <div class="row" data-aos="zoom-in">
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Cliens Section -->
+
     <!-- End Cta Section -->
 
     <!-- ======= Contact Section ======= -->

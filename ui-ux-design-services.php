@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+ <?php $title = "Devzila Ui Ux Design  Services " ?>
   <?php include('common_head.inc.php') ?>
 </head>
 
@@ -17,6 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h1>UI/UX Design Services Provider Company</h1>
           <div class="d-flex justify-content-center justify-content-lg-start">
             
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -33,10 +35,102 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>UI/UX Design Company</h2>
+          <p>
+          We, at Devzila, understand the importance of creative design in digital era. We design exceptional digital experiences to deliver real business outcomes. Our being unique, thoughtful, appealing, and simplicity in designs address the needs of all the modern businesses and enterprises. We offer comprehensive UI/UX design services that includes responsive web design, mobile app design, user experience consulting, and promotional designs by using all the latest tools and technologies.
+          </p><br>
+          <p>With a unique blend of modern technologies, techniques, best practices and innovative approaches, we create user-centric, responsive, iterative and adaptive designs with uniform cross-platform compatibility. With over 16+ years of experience in this design industry, we are known for our creative and unique designs with hands-on experience in all the aspects of UI/UX. We understand what it takes to build a brand from the design thinking services perspective and help deliver the same using modern tools and creative ways of thinking. We help our clients thrive in this digital era by creating engaging designs that makes a lasting impact on the mind of the end-users which in turn, increase brand awareness and loyalty.</p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
    
     <!-- ======= Team Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>UI/UX Design Services</h2>
+          <p>
+          User Interface Design as a discipline and, its expertise is of utmost importance to web application development. At the end of the day, an application is as good as its usability but unfortunately this area is often neglected. Understanding this important ingredient early on, our UI/UX designers at railscarma mainly focuses on overall user experience to get the maximum customer satisfaction. We also make sure that all requested and required features are discussed and delivered on the given time. RailsCarma offers
+          </p>
+        </div>
+        <div class="row content">
+          <div class="col-lg-6">
+            <ul>
+              <li><i class="ri-check-double-line"></i> Web Application Story Boarding
+              <li><i class="ri-check-double-line"></i> Wireframing Services</li>
+              <li><i class="ri-check-double-line"></i> Design and Color Selection</li>
+              <li><i class="ri-check-double-line"></i> Mockups & Prototypes</li>
+              <li><i class="ri-check-double-line"></i> Usability Testing Services</li>
+            </ul>
+          </div>
+        </div>
+        </div>
+        
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Why Choose Devzila As Your UI/UX Design Partners?</h2>
+          <p>
+          In the current scenario User Interfaces (UI) and User Experience (UX) have become very important factors which determine the success of an interactive web-application.
+          </p><br>
+          <p>We specialize in cutting edge web user interface designs, strategic website development, effective e-commerce solutions, and web based applications. We also provide result oriented search engine optimization (SEO) process and outstanding brand creations. Being an interactive Web UI Design company, we believe in working with you rather than working for you, while we design your online presence. The project concept gets initialized from you and together we do everything to take it up to the next level.</p>
+          <br>
+          <p>With an extremely competent design team on-board RailsCarma, it is imperative that you would get the best quality design services from us. We have expertise in Web UI/UX design, basic Website design, Website redesign, Web Application UI Design and Dashboard Interface Design. All our designs are done using the best design tools available keeping the end-users experience and perspective in mind.</p>
+        </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
     
     <!-- ======= Services Section ======= -->
+    <section id="clients" class="clients section-bg">
+      <div class="container">
+      <div class="section-title">
+          <h2>Our Clients</h2>
+      </div>
+
+        <div class="row" data-aos="zoom-in">
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Cliens Section -->
   
     <!-- ======= Cta Section ======= -->
     <!-- End Cta Section -->
