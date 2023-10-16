@@ -79,6 +79,9 @@
                   <a class="dropdown-item" href="app-support-development.php">App Support & Maintainence</a>
                   <a class="dropdown-item" href="rails-upgrade-service.php">Rails Upgrade Service</a>
                 </div>
+                <div class="col">
+                  <a class="dropdown-item" href="upgrade-rails-app.php"> Upgrade Your Rails app</a>
+                </div>
               </div>
             </div>
           </li>
