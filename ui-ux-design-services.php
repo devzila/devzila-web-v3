@@ -57,7 +57,7 @@
         <div class="section-title">
           <h2>UI/UX Design Services</h2>
           <p>
-          User Interface Design as a discipline and, its expertise is of utmost importance to web application development. At the end of the day, an application is as good as its usability but unfortunately this area is often neglected. Understanding this important ingredient early on, our UI/UX designers at railscarma mainly focuses on overall user experience to get the maximum customer satisfaction. We also make sure that all requested and required features are discussed and delivered on the given time. RailsCarma offers
+          User Interface Design as a discipline and, its expertise is of utmost importance to web application development. At the end of the day, an application is as good as its usability but unfortunately this area is often neglected. Understanding this important ingredient early on, our UI/UX designers at Devzila mainly focuses on overall user experience to get the maximum customer satisfaction. We also make sure that all requested and required features are discussed and delivered on the given time. Devzila offers
           </p>
         </div>
         <div class="row content">
@@ -87,7 +87,7 @@
           </p><br>
           <p>We specialize in cutting edge web user interface designs, strategic website development, effective e-commerce solutions, and web based applications. We also provide result oriented search engine optimization (SEO) process and outstanding brand creations. Being an interactive Web UI Design company, we believe in working with you rather than working for you, while we design your online presence. The project concept gets initialized from you and together we do everything to take it up to the next level.</p>
           <br>
-          <p>With an extremely competent design team on-board RailsCarma, it is imperative that you would get the best quality design services from us. We have expertise in Web UI/UX design, basic Website design, Website redesign, Web Application UI Design and Dashboard Interface Design. All our designs are done using the best design tools available keeping the end-users experience and perspective in mind.</p>
+          <p>With an extremely competent design team on-board Devzila, it is imperative that you would get the best quality design services from us. We have expertise in Web UI/UX design, basic Website design, Website redesign, Web Application UI Design and Dashboard Interface Design. All our designs are done using the best design tools available keeping the end-users experience and perspective in mind.</p>
         </div>
         </div>
 

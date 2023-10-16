@@ -56,7 +56,7 @@
             <div class="icon-box">
               <div class="icon"> </div>
               <h4><a href="">Enterprise Application Development</a></h4>
-              <p>Develop enterprise-grade web applications with RailsCarma. By combining MERN technologies with cutting-edge enterprise solutions, we can develop cutting-edge solutions. The solutions we create are tailored for high-intensive workloads and are designed specifically for enterprise customers.</p>
+              <p>Develop enterprise-grade web applications with Devzila. By combining MERN technologies with cutting-edge enterprise solutions, we can develop cutting-edge solutions. The solutions we create are tailored for high-intensive workloads and are designed specifically for enterprise customers.</p>
             </div>
           </div>
 

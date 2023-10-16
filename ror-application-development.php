@@ -54,7 +54,7 @@
         <div class="section-title">
           <h2>Our Rails Consulting Proccess</h2>
           <p>
-            <strong>Here at RailsCarma, we have been developing and hosting Ruby on Rails applications since 2006 and with our strong team specialized in Ruby on Rails, we can help you improve your existing web application on Ruby on Rails or help you find the right solution for you.
+            <strong>Here at Devzila, we have been developing and hosting Ruby on Rails applications since 2006 and with our strong team specialized in Ruby on Rails, we can help you improve your existing web application on Ruby on Rails or help you find the right solution for you.
 </strong>
           </p>
         </div>
