@@ -1,13 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://www.example.com/page1</loc>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://www.example.com/page2</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://devzila.com/</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://devzila.com/index.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/about.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/services.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/term-services.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/privacy-policy.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/ror-application-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/mern-stack-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/mobile-app-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/api-driven-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/ui-ux-design-services.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/spree-commerce-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/saas-application-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/mvp-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/app-support-development.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/rails-upgrade-service.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/upgrade-rails-app.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/resources.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/carrers.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://devzila.com/contact_us.php</loc>
+<lastmod>2023-10-17T12:39:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>

@@ -10,7 +10,7 @@
     .mega-menu .dropdown-menu {
         width: 100vw; / Expand the width to 100% /
         left: 50vw;
-        transform: translateX(-39%);   
+        transform: translateX(-40%);   
         max-height: 0;
         overflow: hidden;
         transition: max-height 0.3s ease; / Adding smooth transition for the collapse/expand effect /
@@ -54,8 +54,8 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li class="nav-item dropdown mega-menu">
-            <a class="nav-link dropdown-toggle" href="index.php" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+          <li class="nav-item dropdown mega-menu" id="servicesDropdown">
+          <a class="nav-link dropdown-toggle" href="index.php" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
             <div class="dropdown-menu">
               <div class="row">
                 <div class="col">
@@ -115,4 +115,18 @@
       </nav><!-- .navbar -->
 
     </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+          var servicesDropdown = document.getElementById('servicesDropdown');
+          servicesDropdown.addEventListener('mouseover', function() {
+              servicesDropdown.classList.add('show');
+              servicesDropdown.querySelector('.dropdown-menu').classList.add('show');
+          });
+
+          servicesDropdown.addEventListener('mouseout', function() {
+              servicesDropdown.classList.remove('show');
+              servicesDropdown.querySelector('.dropdown-menu').classList.remove('show');
+          });
+      });
+   </script>
   </header>
