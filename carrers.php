@@ -17,10 +17,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>Better Solutions For Your Business</h1>
-          <h2>Devzila is home to the most talented Ruby on Rails, MERN, and React Native software developers.</h2>
+          <h1>Get A Start With Devzila </h1>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">GET THE FACTS</a>
+            <a href="#about" class="nav-link btn-get-started scrollto">GET THE FACTS</a>
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
           </div>
         </div>
@@ -35,122 +34,272 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients section-bg">
-      <div class="container">
-
-        <div class="row" data-aos="zoom-in">
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Cliens Section -->
-
-    <!-- ======= Team Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Your own and exclusive engineering and design team</h2>
+          <h2>Why Devzila ?</h2>
           <p>
-            <strong>IF you can’t find them anywhere, is because we have them. Add members of our talented crew to your project at competitive rates.</strong>
-          </p>
+            <strong>We believe in providing a career not just a job! We give our people a real opportunity to grow as professionals. We train our staff and provide extensive training programmes to help them develop smart solutions for our clients. Our craving for knowledge is incessant and so we encourage colleagues to develop their strengths and have fun along the way.
+           </strong>
+          </p><br>
+          <p> <strong>The fact that Devzila has presence in South East Asia, North America and Middle East give us a remarkable prospect to juggle different cultures and learn from them. We are really proud of our collective diversity and hire people regardless of race, gender, religion, caste or creed. We encourage a healthy mix of male and female candidates when recruiting. We are proud of our culture and you would be too!</strong></p>
         </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <ul>
-              <li><i class="ri-check-double-line"></i> We Are A Group of Passionate Ruby and Node Developer. Hire experts well-versed 
-                with the latest tools and technologies to deliver exceptional applications
-              </li>
-              <li><i class="ri-check-double-line"></i> With over a decade of experience in developing, maintaining and deploying a varied range of RoR and MERN solutions</li>
-              <li><i class="ri-check-double-line"></i> Time-tested solutions, experience & thoughts on web & mobile development, tonnes of remote work hacks. We help non-technical founders grow successful distributed teams.</li>
-            </ul>
-          </div>
-
-          <div class="col-lg-6">
-            <ul>
-              <li><i class="ri-check-double-line"></i> Our unique mix of skills allows us to have a wide offering including consultancy, design, architecture, development, operations, training, and support—without the overheads</li>
-              <li><i class="ri-check-double-line"></i> We employ technologies up to date with the latest industry standards.</li>
-              <li><i class="ri-check-double-line"></i> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
-            </ul>
-          </div>
-          <div class="text-center"><a href="#" class="btn-learn-more">Learn More</a></div>
         </div>
 
       </div>
     </section><!-- End About Us Section -->
 
-
+    <!-- ======= Team Section ======= -->
+   
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <h3> Ruby On Rails (RoR) Development Experts and Services</h3>
+          <h2>Open Positions</h2>
         </div>
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"> <img src="assets/img/ui.png"></div>
-              <h4><a href="">UI/UX Design</a></h4>
-              <p>First impressions matter! UX design is one of the success factors.</p>
+              <div class="icon"></div>
+              <h4><a href="">Ruby On Rails Tech Lead</a></h4>
+              <p>Experience - 3+ Years</p>
+              <p>Location - Chandigarh
+              </p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/Custm-rails.png"></div>
-              <h4><a href="">Custom Rails App Development</a></h4>
-              <p>Get fabulous, personalized and intelligent solutions to meet all your business needs.</p>
+              <div class="icon"></div>
+              <h4><a href="">Test Lead</a></h4>
+              <p>Experience -1- 3+ Years</p>
+              <p>Location - Panchkula
+              </p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/product.png"></div>
-              <h4><a href="">Build A Product With Us</a></h4>
-              <p>We give you bespoke, seamless and secure solutions, aiding you to reach your maximum potential.</p>
+              <div class="icon"></div>
+              <h4><a href="">Test Engineers</a></h4>
+              <p>Experience - 3-5 Years</p>
+              <p>Location - Panchkula
+              </p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/ror.png"></div>
-              <h4><a href="">Hire Ruby On Rails Developers</a></h4>
-              <p>Hire RoR Experts well-versed with the latest tools and technologies to deliver exceptional applications.</p>
+              <div class="icon"></div>
+              <h4><a href="">Senior Ruby On Rails Engineer</a></h4>
+              <p>Experience - 5+ Years</p>
+              <p>Location - Panchkula
+              </p>
             </div>
           </div>
 
         </div>
 
       </div>
+    </section>
+    <!-- End Services Section -->
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Android Developer</a></h4>
+              <p>Experience - 4+ Years</p>
+              <p>Location - Panchkula
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">UI/UX Developer</a></h4>
+              <p>Experience - 1-3 Years</p>
+              <p>Location - Chandigarh
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">UI Developer with React JS</a></h4>
+              <p>Experience - 3+ Years</p>
+              <p>Location - Panchkula
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Lead Generation Executive</a></h4>
+              <p>Experience - 5+ Years</p>
+              <p>Location - Panchkula
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- End Services Section -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Content Writer</a></h4>
+              <p>Experience - 3+ Years</p>
+              <p>Location - Panchkula
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Business Analyst</a></h4>
+              <p>Experience - 2+ Years</p>
+              <p>Location - Panchkula
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">DevOps Engineer</a></h4>
+              <p>Experience - 4+ Years</p>
+              <p>Location - Panchkula
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Linux System Administrator</a></h4>
+              <p>Experience - 2+ Years</p>
+              <p>Location - Panchkula
+              </p>
+            </div>
+          </div>
+          
+
+        </div>
+
+      </div>
     </section><!-- End Services Section -->
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Perk & Benefits</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Leader's Support</a></h4>
+              <p>Ask for help, give and get feedback, set up goals and develop your skills.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Cross Technology</a></h4>
+              <p>We allow our team to work on other technologies & encourage them to be full stack developers.</p>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Devices</a></h4>
+              <p>We provide all the necessary devices at office & like to work with the best tools & technologies</p>
+              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Mentoring</a></h4>
+              <p>Start your journey with guidance and support of a mentor from the first day.</p>
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- End Services Section -->
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Fast-Paced Career Path</a></h4>
+              <p>Opportunities for professional development, a promotion and a pay rise.</p>
+              
+              </p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Remote work</a></h4>
+              <p>Get things done - from home or an office.</p>
+              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Knowledge Sharing</a></h4>
+              <p>Internal webinars, regular workshops and rich knowledge base.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"></div>
+              <h4><a href="">Flexible hours</a></h4>
+              <p>Adjust your plan to work efficiently.</p>
+              
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- End Services Section -->
 
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
@@ -159,10 +308,10 @@
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p> We Help Modernize Your Applications Portfolio.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle nav-link" href="contact_us.php">Call To Action</a>
           </div>
         </div>
 

@@ -69,34 +69,77 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+          <form id="contactForm" role="form" class="php-email-form">
+              <!-- Your form fields go here -->
               <div class="row">
-                <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" required>
+                  <div class="form-group col-md-6">
+                      <label for="name">Your Name</label>
+                      <input type="text" name="name" class="form-control" id="name" required>
+                  </div>
+                  <div class="form-group col-md-6">
+                      <label for="email">Your Email</label>
+                      <input type="email" class="form-control" name="email" id="email" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="subject">Subject</label>
+                    <input type="text" class="form-control" name="subject" id="subject" required>
                 </div>
-                <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" required>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea class="form-control" name="message" id="message" rows="10" required></textarea>
                 </div>
               </div>
-              <div class="form-group">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" required>
-              </div>
-              <div class="form-group">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
+              <!-- Add more form fields as needed -->
               <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
+          </form>
+        </div>
+    <script>
+              document.getElementById('contactForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            
+            var name = document.getElementById('name').value;
+            var email = document.getElementById('email').value;
+            var subject = document.getElementById('subject').value;
+            var message = document.getElementById('message').value;
+            
+            var formData = {
+                name: name,
+                email: email,
+                subject: subject,
+                message: message,
+                // Add more form fields as needed
+            };
+            
+            // Make an AJAX request
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', 'https://dummyjson.com/posts', true);
+            xhr.setRequestHeader('Content-Type', 'application/json');
+            
+            xhr.onload = function () {
+                if (xhr.status >= 200 && xhr.status < 400) {
+                    // Success
+                    var response = JSON.parse(xhr.responseText);
+                    var sentMessage = document.querySelector('.sent-message');
+                    sentMessage.style.display = 'block';
+                    sentMessage.innerHTML = 'Your message has been sent. Thank you!';
+                    document.getElementById('contactForm').reset();
+                } else {
+                    // Error
+                    var errorMessage = document.querySelector('.error-message');
+                    errorMessage.innerHTML = 'Error sending message. Please try again later.';
+                }
+            };
+            
+            xhr.onerror = function () {
+                // Connection error
+                var errorMessage = document.querySelector('.error-message');
+                errorMessage.innerHTML = 'Error sending message. Please try again later.';
+            };
+            
+            xhr.send(JSON.stringify(formData));
+        });
 
+    </script>
         </div>
       </div>
 

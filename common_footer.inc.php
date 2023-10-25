@@ -40,11 +40,11 @@
             <strong>Phone:</strong> +91 9876727393<br>
             <strong>Email:</strong> info@devzila.com<br>
             <div class="social-links mt-3">
-              <a href="https://twitter.com/devzila/" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="https://www.facebook.com/Devzila/" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="https://www.instagram.com/devzila4/" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="mailto:info@devzila.com" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="https://www.linkedin.com/company/devzila/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://twitter.com/devzila/" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
+              <a href="https://www.facebook.com/Devzila/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/devzila4/" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+              <a href="mailto:info@devzila.com" class="google-plus" target="_blank"><i class="bx bxl-skype"></i></a>
+              <a href="https://www.linkedin.com/company/devzila/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
 
