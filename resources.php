@@ -20,7 +20,7 @@
           <h1>Better Solutions For Your Business</h1>
           <h2>Devzila is home to the most talented Ruby on Rails, MERN, and React Native software developers.</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">GET THE FACTS</a>
+            <a href="#about" class="btn-get-started scrollto nav-link">GET THE FACTS</a>
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
           </div>
         </div>
@@ -98,7 +98,7 @@
               <li><i class="ri-check-double-line"></i> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
             </ul>
           </div>
-          <div class="text-center"><a href="#" class="btn-learn-more">Learn More</a></div>
+          <div class="text-center"><a href="#" class="btn-learn-more nav-link">Learn More</a></div>
         </div>
 
       </div>
@@ -162,7 +162,7 @@
             <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle nav-link" href="#">Call To Action</a>
           </div>
         </div>
 

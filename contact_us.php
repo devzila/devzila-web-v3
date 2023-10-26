@@ -80,17 +80,13 @@
                       <label for="email">Your Email</label>
                       <input type="email" class="form-control" name="email" id="email" required>
                   </div>
-                  <div class="form-group">
-                    <label for="subject">Subject</label>
-                    <input type="text" class="form-control" name="subject" id="subject" required>
-                </div>
                 <div class="form-group">
                     <label for="message">Message</label>
                     <textarea class="form-control" name="message" id="message" rows="10" required></textarea>
                 </div>
               </div>
               <!-- Add more form fields as needed -->
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="btn-get-started scrollto nav-link"><button type="submit">Send Message</button></div>
           </form>
         </div>
     <script>
@@ -99,13 +95,11 @@
             
             var name = document.getElementById('name').value;
             var email = document.getElementById('email').value;
-            var subject = document.getElementById('subject').value;
             var message = document.getElementById('message').value;
             
             var formData = {
                 name: name,
                 email: email,
-                subject: subject,
                 message: message,
                 // Add more form fields as needed
             };

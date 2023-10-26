@@ -64,7 +64,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Ruby On Rails Tech Lead</a></h4>
+              <h4>Ruby On Rails Tech Lead</h4>
               <p>Experience - 3+ Years</p>
               <p>Location - Chandigarh
               </p>
@@ -74,7 +74,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Test Lead</a></h4>
+              <h4>Test Lead & QA Role</h4>
               <p>Experience -1- 3+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -84,7 +84,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Test Engineers</a></h4>
+              <h4>Test Engineers Role</h4>
               <p>Experience - 3-5 Years</p>
               <p>Location - Panchkula
               </p>
@@ -94,7 +94,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Senior Ruby On Rails Engineer</a></h4>
+              <h4>Senior Ruby On Rails Engineer</h4>
               <p>Experience - 5+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -114,7 +114,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Android Developer</a></h4>
+              <h4>Android Developer</h4>
               <p>Experience - 4+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -124,7 +124,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">UI/UX Developer</a></h4>
+              <h4>UI/UX Developer Role</h4>
               <p>Experience - 1-3 Years</p>
               <p>Location - Chandigarh
               </p>
@@ -134,7 +134,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">UI Developer with React JS</a></h4>
+              <h4>UI Developer with React JS</h4>
               <p>Experience - 3+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -144,7 +144,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Lead Generation Executive</a></h4>
+              <h4>Lead Generation Executive</h4>
               <p>Experience - 5+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -163,7 +163,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Content Writer</a></h4>
+              <h4>Content Writer Role</h4>
               <p>Experience - 3+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -173,7 +173,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Business Analyst</a></h4>
+              <h4>Business Analyst Role</h4>
               <p>Experience - 2+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -183,7 +183,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">DevOps Engineer</a></h4>
+              <h4>DevOps Engineer Role</h4>
               <p>Experience - 4+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -193,7 +193,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Linux System Administrator</a></h4>
+              <h4>Linux System Administrator</a></h4>
               <p>Experience - 2+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -217,7 +217,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Leader's Support</a></h4>
+              <h4>Leader's Support</h4>
               <p>Ask for help, give and get feedback, set up goals and develop your skills.</p>
             </div>
           </div>
@@ -225,7 +225,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Cross Technology</a></h4>
+              <h4>Cross Technology</h4>
               <p>We allow our team to work on other technologies & encourage them to be full stack developers.</p>
               </p>
             </div>
@@ -234,7 +234,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Devices</a></h4>
+              <h4>Devices</h4>
               <p>We provide all the necessary devices at office & like to work with the best tools & technologies</p>
               
             </div>
@@ -243,7 +243,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Mentoring</a></h4>
+              <h4>Mentoring</h4>
               <p>Start your journey with guidance and support of a mentor from the first day.</p>
               </p>
             </div>
@@ -262,7 +262,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Fast-Paced Career Path</a></h4>
+              <h4>Fast-Paced Career Path</h4>
               <p>Opportunities for professional development, a promotion and a pay rise.</p>
               
               </p>
@@ -272,7 +272,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Remote work</a></h4>
+              <h4>Remote work</h4>
               <p>Get things done - from home or an office.</p>
               
             </div>
@@ -281,7 +281,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Knowledge Sharing</a></h4>
+              <h4>Knowledge Sharing</h4>
               <p>Internal webinars, regular workshops and rich knowledge base.</p>
             </div>
           </div>
@@ -289,7 +289,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Flexible hours</a></h4>
+              <h4>Flexible hours</h4>
               <p>Adjust your plan to work efficiently.</p>
               
             </div>
