@@ -62,7 +62,7 @@
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Ruby On Rails Tech Lead</h4>
               <p>Experience - 3+ Years</p>
@@ -72,7 +72,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Test Lead & QA Role</h4>
               <p>Experience -1- 3+ Years</p>
@@ -82,7 +82,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Test Engineers Role</h4>
               <p>Experience - 3-5 Years</p>
@@ -92,7 +92,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Senior Ruby On Rails Engineer</h4>
               <p>Experience - 5+ Years</p>
@@ -100,21 +100,10 @@
               </p>
             </div>
           </div>
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Services Section -->
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4>Android Developer</h4>
+              <h4>Android Developer Role</h4>
               <p>Experience - 4+ Years</p>
               <p>Location - Panchkula
               </p>
@@ -122,7 +111,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>UI/UX Developer Role</h4>
               <p>Experience - 1-3 Years</p>
@@ -132,7 +121,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>UI Developer with React JS</h4>
               <p>Experience - 3+ Years</p>
@@ -142,7 +131,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Lead Generation Executive</h4>
               <p>Experience - 5+ Years</p>
@@ -151,17 +140,8 @@
             </div>
           </div>
 
-        </div>
-
-      </div>
-    </section>
-    <!-- End Services Section -->
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Content Writer Role</h4>
               <p>Experience - 3+ Years</p>
@@ -171,7 +151,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Business Analyst Role</h4>
               <p>Experience - 2+ Years</p>
@@ -181,7 +161,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>DevOps Engineer Role</h4>
               <p>Experience - 4+ Years</p>
@@ -191,7 +171,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
+            <div class="icon-box"style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Linux System Administrator</a></h4>
               <p>Experience - 2+ Years</p>
@@ -204,7 +184,11 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
+    <!-- End Services Section -->
+    
+    <!-- End Services Section -->
+    
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
@@ -215,7 +199,7 @@
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Leader's Support</h4>
               <p>Ask for help, give and get feedback, set up goals and develop your skills.</p>
@@ -223,7 +207,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Cross Technology</h4>
               <p>We allow our team to work on other technologies & encourage them to be full stack developers.</p>
@@ -232,7 +216,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Devices</h4>
               <p>We provide all the necessary devices at office & like to work with the best tools & technologies</p>
@@ -241,7 +225,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Mentoring</h4>
               <p>Start your journey with guidance and support of a mentor from the first day.</p>
@@ -249,16 +233,6 @@
             </div>
           </div>
 
-        </div>
-
-      </div>
-    </section>
-    <!-- End Services Section -->
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
@@ -295,10 +269,13 @@
             </div>
           </div>
 
+
         </div>
 
       </div>
     </section>
+    <!-- End Services Section -->
+    
     <!-- End Services Section -->
 
     <!-- ======= Cta Section ======= -->
