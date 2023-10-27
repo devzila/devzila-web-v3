@@ -8,9 +8,11 @@
       position: relative;
     }
     .mega-menu .dropdown-menu {
-        width: 100vw; / Expand the width to 100% /
-        left: 50vw;
-        transform: translateX(-45%);   
+        width: 100vw; / Adjust the width and leave some padding on both sides /
+       left: 50vw;
+       transform: translateX(-50%);
+        
+        margin: 0; / Center the dropdown /
         max-height: 0;
         overflow: hidden;
         transition: max-height 0.3s ease; / Adding smooth transition for the collapse/expand effect /
@@ -123,10 +125,13 @@
               servicesDropdown.querySelector('.dropdown-menu').classList.add('show');
           });
 
-          servicesDropdown.addEventListener('mouseout', function() {
-              servicesDropdown.classList.remove('show');
-              servicesDropdown.querySelector('.dropdown-menu').classList.remove('show');
+         servicesDropdown.addEventListener('mouseout', function(event) {
+              if (!servicesDropdown.contains(event.relatedTarget)) {
+                  servicesDropdown.classList.remove('show');
+                  servicesDropdown.querySelector('.dropdown-menu').classList.remove('show');
+              }
           });
+
       });
    </script>
   </header>
