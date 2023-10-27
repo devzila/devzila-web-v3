@@ -122,7 +122,9 @@
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section>
+    <!-- End About Us Section -->
+    
     <section id="clients" class="clients section-bg">
       <div class="container">
       <div class="section-title">

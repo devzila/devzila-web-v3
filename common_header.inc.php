@@ -89,7 +89,7 @@
           </li>
           <li><a class="nav-link scrollto " href="index.php">Project</a></li>
           <li><a class="nav-link scrollto" href="about.php">About</a></li>
-          <li><a class="nav-link   scrollto" href="#portfolio">How we Work</a></li>
+          <li><a class="nav-link   scrollto" href="how-we-work.php">How we Work</a></li>
           <li><a class="nav-link scrollto" href="resources.php">Resources</a></li>
           <!--
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
