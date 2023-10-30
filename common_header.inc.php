@@ -7,10 +7,12 @@
     .mega-menu {
       position: relative;
     }
+
     .mega-menu .dropdown-menu {
-        width: 100vw; / Adjust the width and leave some padding on both sides /
-       left: 50vw;
-       transform: translateX(-50%);
+        width: 75vw; / Adjust the width and leave some padding on both sides /
+       left: 0% !important;
+       right: 0% !important;
+       transform: translateX(-37%);
         
         margin: 0; / Center the dropdown /
         max-height: 0;
