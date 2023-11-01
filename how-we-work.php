@@ -3,6 +3,54 @@
 
 <head>
   <?php include('common_head.inc.php') ?>
+
+  <style>
+  .tracker-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+  }
+  .tracker-line {
+    width: 4px;
+    height: 180px;
+    background-color: blue;
+    position: relative;
+  }
+  .arrow {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid blue;
+  }
+  .bullet-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .bullet-text {
+    font-size: 12px;
+    color: black;
+    margin-left: 30px; / Added margin to the left of the text /
+  }
+  .bullet {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 8px 0;
+  }
+</style>
 </head>
 
 <body>
@@ -403,7 +451,34 @@
         </div>
 
       </div>
+    </section>
+    <!-- End Cta Section -->
+
+    <section>
+          <div class="tracker-container">
+          <div class="tracker-line">
+            <div class="arrow"></div>
+          </div>
+          <div class="bullet-container">
+            <div class="bullet">
+              <div class="bullet-text">Step 1</div>
+            </div>
+            <div class="bullet">
+              <div class="bullet-text">Step 2</div>
+            </div>
+            <div class="bullet">
+              <div class="bullet-text">Step 3</div>
+            </div>
+            <div class="bullet">
+              <div class="bullet-text">Step 4</div>
+            </div>
+            <div class="bullet">
+              <div class="bullet-text">Step 5</div>
+            </div>
+          </div>
+        </div>
     </section><!-- End Cta Section -->
+
 
     <!-- ======= Contact Section ======= -->
     <!--
