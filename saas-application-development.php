@@ -152,16 +152,16 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Better accessibility
-              <li><i class="ri-check-double-line"></i> Easy customization and monitor</li>
-              <li><i class="ri-check-double-line"></i> Single/Multitenant architecture</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Better accessibility</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Easy customization and monitor</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Single/Multitenant architecture</li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Point & click for updates</li>
-              <li><i class="ri-check-double-line"></i> No performance issue</li>
-              <li><i class="ri-check-double-line"></i> No compatibility issue with other platforms</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Point & click for updates</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> No performance issue</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> No compatibility issue with other platforms</li>
             </ul>
           </div>
           
@@ -247,15 +247,15 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Browse through a sampling of our projects reflecting our ability to create innovative and ingenious solutions.
-              <li><i class="ri-check-double-line"></i> We have an adept team with best of breed technologies to change the growth story of any business.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Browse through a sampling of our projects reflecting our ability to create innovative and ingenious solutions.
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We have an adept team with best of breed technologies to change the growth story of any business.</li>
               
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> We specialize in providing strategic insights for an elevated level of visibility.</li>
-              <li><i class="ri-check-double-line"></i> We employ structured methodology for accelerated results.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We specialize in providing strategic insights for an elevated level of visibility.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We employ structured methodology for accelerated results.</li>
             </ul>
           </div>
         </div>

@@ -120,17 +120,17 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> We’ve been researching, experimenting and working with Ruby on Rails technology since its formative days.
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We’ve been researching, experimenting and working with Ruby on Rails technology since its formative days.
               </li>
-              <li><i class="ri-check-double-line"></i> Our experience can sure prove advantageous for you at conducting the upgrade efficiently.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Our experience can sure prove advantageous for you at conducting the upgrade efficiently.</li>
               
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Our team of Rails experts can help you with a quick and effective audit of your application to figure out the potential challenges while making the upgrade to get prepared for it in advance.</li>
-              <li><i class="ri-check-double-line"></i>With our industry leadership, we have the knowledge & experience to prove as a guiding hand for your business during the entire process so you can get it right the first time..</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Our team of Rails experts can help you with a quick and effective audit of your application to figure out the potential challenges while making the upgrade to get prepared for it in advance.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> With our industry leadership, we have the knowledge & experience to prove as a guiding hand for your business during the entire process so you can get it right the first time..</li>
             </ul>
           </div>
         </div>

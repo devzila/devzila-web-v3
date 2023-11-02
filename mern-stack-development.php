@@ -172,18 +172,18 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Framework for Javascript - NodeJS, ReactJS, AngularJS, and VueJS
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Framework for Javascript - NodeJS, ReactJS, AngularJS, and VueJS
               </li>
-              <li><i class="ri-check-double-line"></i> Technologies for the web - YII | WordPress | Magento | WOO | Shopify | PrestaShop | CodeIgniter | Laravel | MERN | MEAN | LAMP</li>
-              <li><i class="ri-check-double-line"></i> The database FireBase, MySQL, and PostgreSQL</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Technologies for the web - YII | WordPress | Magento | WOO | Shopify | PrestaShop | CodeIgniter | Laravel | MERN | MEAN | LAMP</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> The database FireBase, MySQL, and PostgreSQL</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Technologies for mobile devices React Native, Swift, and Java</li>
-              <li><i class="ri-check-double-line"></i> We employ technologies up to date with the latest industry standards.</li>
-              <li><i class="ri-check-double-line"></i> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Technologies for mobile devices React Native, Swift, and Java</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We employ technologies up to date with the latest industry standards.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
             </ul>
           </div>
         </div>

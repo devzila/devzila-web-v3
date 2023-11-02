@@ -3,7 +3,7 @@
 
 <head>
   <?php include('common_head.inc.php') ?>
-
+<!--
   <style>
   .tracker-container {
     display: flex;
@@ -51,6 +51,7 @@
     margin: 8px 0;
   }
 </style>
+-->
 </head>
 
 <body>
@@ -178,18 +179,18 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Save time and money early on
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Save time and money early on
               </li>
-              <li><i class="ri-check-double-line"></i> Understand users and their needs</li>
-              <li><i class="ri-check-double-line"></i> Identify and mitigate future risks</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Understand users and their needs</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Identify and mitigate future risks</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i>Define the redesign direction and crucial points</li>
-              <li><i class="ri-check-double-line"></i> Refine product vision and business goals</li>
-              <li><i class="ri-check-double-line"></i> Ideate based on the learning and data</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Define the redesign direction and crucial points</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Refine product vision and business goals</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Ideate based on the learning and data</li>
             </ul>
           </div>
         </div>
@@ -211,9 +212,8 @@
       </div>
     </section>
 
-
-    
     <!-- End Services Section -->
+
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
@@ -227,18 +227,17 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Meet the team
-              </li>
-              <li><i class="ri-check-double-line"></i> Set up communications</li>
-              <li><i class="ri-check-double-line"></i> Start the project</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Meet the team</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Set up communications</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Start the project</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i>Set up development environment</li>
-              <li><i class="ri-check-double-line"></i>Establish relevant tools and technologies</li>
-              <li><i class="ri-check-double-line"></i> Create backlog of features for design and development</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Set up development environment</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Establish relevant tools and technologies</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Create backlog of features for design and development</li>
             </ul>
           </div>
         </div>
@@ -261,16 +260,16 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Demonstrable mockups
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Demonstrable mockups
               </li>
-              <li><i class="ri-check-double-line"></i> UX/UI and the user journey</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> UX/UI and the user journey</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i>Clickable or tappable prototypes</li>
-              <li><i class="ri-check-double-line"></i>Product design Analyze, Measure and UI design</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Clickable or tappable prototypes</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Product design Analyze, Measure and UI design</li>
               
             </ul>
           </div>
@@ -310,16 +309,16 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> <strong>Team Extension - </strong>Need on-demand developers to continuously support your business? We’ve got you covered. Check out our team extension services.
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"><strong> Team Extension - </strong>Need on-demand developers to continuously support your business? We’ve got you covered. Check out our team extension services.
               </li>
-              <li><i class="ri-check-double-line"></i> <strong>Continuous Maintenance - </strong>Software never sleeps. Devzila can keep your business’s software up to date on a regular basis, preventing security flaws and paving the way for new features.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> <strong> Continuous Maintenance - </strong>Software never sleeps. Devzila can keep your business’s software up to date on a regular basis, preventing security flaws and paving the way for new features.</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i><strong>Customer-driven Features - </strong>After launch, your customers and stakeholders will likely have feature requests and Devzila helps you implement new product features with ease.</li>
-              <li><i class="ri-check-double-line"></i><strong>Bug Fixing - </strong>Rely on Devzila to handle bug reports and fix your code efficiently and quickly—it makes all the difference to satisfied customers.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"><strong> Customer-driven Features - </strong>After launch, your customers and stakeholders will likely have feature requests and Devzila helps you implement new product features with ease.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"><strong> Bug Fixing - </strong>Rely on Devzila to handle bug reports and fix your code efficiently and quickly—it makes all the difference to satisfied customers.</li>
               
             </ul>
           </div>
@@ -424,10 +423,6 @@
             </div>
           </div>
 
-
-          
-
-
         </div>
 
       </div>
@@ -453,7 +448,7 @@
       </div>
     </section>
     <!-- End Cta Section -->
-
+<!--
     <section>
           <div class="tracker-container">
           <div class="tracker-line">
@@ -477,7 +472,9 @@
             </div>
           </div>
         </div>
-    </section><!-- End Cta Section -->
+    </section>
+-->
+    <!-- End Cta Section -->
 
 
     <!-- ======= Contact Section ======= -->

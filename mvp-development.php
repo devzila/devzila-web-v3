@@ -106,16 +106,16 @@
           <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Firstly, we will aim our target and start the process of core features and solve the problems.
-              <li><i class="ri-check-double-line"></i> Secondly, we approach, estimate; see the tech and the architecture.</li>
-              <li><i class="ri-check-double-line"></i> Next comes to design and its development, here we make sure whether design is building and developing or not.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Firstly, we will aim our target and start the process of core features and solve the problems.
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Secondly, we approach, estimate; see the tech and the architecture.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Next comes to design and its development, here we make sure whether design is building and developing or not.</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> We will add feedback according to customer and add more features</li>
-              <li><i class="ri-check-double-line"></i> And finally, we will launch it and maintain the feedback and improve us.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We will add feedback according to customer and add more features</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> And finally, we will launch it and maintain the feedback and improve us.</li>
               
             </ul>
           </div>
@@ -139,15 +139,15 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> MVP developments will help businesses to create a useable prototype of the product and to access the ideas and ensure the correctness of the business plan.
-              <li><i class="ri-check-double-line"></i> Validation testing is performed which will benefit the user by focusing on giving valuable feedback on the UI experience.</li>
-              <li><i class="ri-check-double-line"></i> The team will be able to think thoroughly about the product architecture and it acts as a chance to influence the development process.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> MVP developments will help businesses to create a useable prototype of the product and to access the ideas and ensure the correctness of the business plan.
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Validation testing is performed which will benefit the user by focusing on giving valuable feedback on the UI experience.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> The team will be able to think thoroughly about the product architecture and it acts as a chance to influence the development process.</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> As we build the product and test the experience and viability, it will drive the product vision in the right direction and also it helps to get a transparent and solidified picture in the market scenarios.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> As we build the product and test the experience and viability, it will drive the product vision in the right direction and also it helps to get a transparent and solidified picture in the market scenarios.</li>
               
             </ul>
           </div>

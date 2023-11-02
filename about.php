@@ -83,19 +83,19 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> We Are A Group of Passionate Ruby and Node Developer. Hire experts well-versed 
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We Are A Group of Passionate Ruby and Node Developer. Hire experts well-versed 
                 with the latest tools and technologies to deliver exceptional applications
               </li>
-              <li><i class="ri-check-double-line"></i> With over a decade of experience in developing, maintaining and deploying a varied range of RoR and MERN solutions</li>
-              <li><i class="ri-check-double-line"></i> Time-tested solutions, experience & thoughts on web & mobile development, tonnes of remote work hacks. We help non-technical founders grow successful distributed teams.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> With over a decade of experience in developing, maintaining and deploying a varied range of RoR and MERN solutions</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Time-tested solutions, experience & thoughts on web & mobile development, tonnes of remote work hacks. We help non-technical founders grow successful distributed teams.</li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Our unique mix of skills allows us to have a wide offering including consultancy, design, architecture, development, operations, training, and support—without the overheads</li>
-              <li><i class="ri-check-double-line"></i> We employ technologies up to date with the latest industry standards.</li>
-              <li><i class="ri-check-double-line"></i> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Our unique mix of skills allows us to have a wide offering including consultancy, design, architecture, development, operations, training, and support—without the overheads</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We employ technologies up to date with the latest industry standards.</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
             </ul>
           </div>
           <div class="text-center"><a href="#" class="btn-learn-more nav-link">Learn More</a></div>

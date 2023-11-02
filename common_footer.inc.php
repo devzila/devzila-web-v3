@@ -10,7 +10,6 @@
               <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="term-services.php">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.php">Privacy policy</a></li>
             </ul>
           </div>
 

@@ -63,11 +63,11 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Web Application Story Boarding
-              <li><i class="ri-check-double-line"></i> Wireframing Services</li>
-              <li><i class="ri-check-double-line"></i> Design and Color Selection</li>
-              <li><i class="ri-check-double-line"></i> Mockups & Prototypes</li>
-              <li><i class="ri-check-double-line"></i> Usability Testing Services</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Web Application Story Boarding
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Wireframing Services</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Design and Color Selection</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Mockups & Prototypes</li>
+              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Usability Testing Services</li>
             </ul>
           </div>
         </div>
