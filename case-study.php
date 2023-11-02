@@ -16,9 +16,9 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-9 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"  data-aos="fade-up" data-aos-delay="200">
-          <h1>Projects we successfully Developed</h1>
-          <h2>One look is worth a Thousand words.</h2>
+        <div class="col-md-15 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1 text-center"  data-aos="fade-up" data-aos-delay="200">
+        <h1><span style="color: darkblue;">Projects</span>  we successfully developed</h1>
+          <h2  class= "text-center">One look is worth a Thousand words.</h2>
         </div>
         
       </div>
