@@ -65,7 +65,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"> </div>
-              <h4><a href="">Android App Development</a></h4>
+              <h4>Android App Development</h4>
               <p>We offer a range of Android applications built from the ground up to leverage the fastest growing Android mobile platform. At Devzila, we conceptualize, design and develop customized applications to deliver scalable and innovative applications. We are backed by strong and experienced workforce of over 100+developers, usability architects, designers, testers and project managers to help you execute your idea.</p>
             </div>
           </div>
@@ -73,7 +73,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">iOS App Development</a></h4>
+              <h4>iOS App Development</h4>
               <p>We are the one-stop solutions for all things iOS. Backed by a team of over 100+developers, usability architects, designers, testers and project managers, our high speed iOS app development capability, exceptional product quality and competitive development costs makes us the best choice for any businesses. From research, design, development and deployment, we provide robust, end-to-end, high quality, and feature abundant iOS apps.</p>
             </div>
           </div>
@@ -81,7 +81,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Hybrid App Development</a></h4>
+              <h4>Hybrid App Development</h4>
               <p>Built using HTML, CSS and Java Script, Hybrid Mobile Applications are targeted to WebView embedded inside a native container, instead of targeting to web browsers. We develop intuitive, secure and high performance hybrid apps to bring your ideas to reality. With a proven hybrid application development methodology, we provide scalable, elegant and engaging hybrid application.</p>
             </div>
           </div>
@@ -89,7 +89,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Development Stack</a></h4>
+              <h4>Development Stack</h4>
               <p>Development tools are the key to business success. At Devzila, we use industry specific tools to effectively scale your business and develop new products faster than before.</p>
             </div>
           </div>

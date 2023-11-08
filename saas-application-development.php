@@ -76,52 +76,41 @@
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+            <div class="icon-box"style="margin-bottom: 30px;">
               <div class="icon"> </div>
-              <h4><a href="">SaaS Application Development</a></h4>
+              <h4>SaaS Application Development</h4>
               <p>We have long experience in domain which enables us to help startups plan and deploy their SaaS application strategy effectively..</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
+            <div class="icon-box"style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4><a href="">Mobile SaaS Development</a></h4>
+              <h4>Mobile SaaS Development</h4>
               <p>We can bring your SaaS solution to Mobile platform. We are experts in all native and hybrid mobile application platforms.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4><a href="">3-rd Party Integration Service</a></h4>
+              <h4>3-rd Party Integration Service</h4>
               <p>From developing custom APIs and linking external data sources to adding payment gateways, all third-party integrations are done.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4><a href="">On-Demand SaaS Service</a></h4>
+              <h4>On-Demand SaaS Service</h4>
               <p>SAAS app owners need the power of the cloud backing to deliver on-demand service, from deploying to managing the apps on the cloud.</p>
             </div>
           </div>
 
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        
-
-        <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"> </div>
-              <h4><a href="">App Design & Development</a></h4>
+              <h4>App Design & Development</h4>
               <p>We are an end-to-end SaaS solution provider converting your ideas into robust and expandable Software-as-a-Service applications.</p>
             </div>
           </div>
@@ -129,7 +118,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Multi-Tenant Saas Architecture</a></h4>
+              <h4>Multi-Tenant Saas Architecture</h4>
               <p>We help technology vendors with optimal resource sharing by planning and implementing multi-tenant management tools.</p>
             </div>
           </div>
@@ -138,6 +127,8 @@
 
       </div>
     </section><!-- End Services Section -->
+
+    <!-- End Services Section -->
   
     <!-- ======= Cta Section ======= -->
     <section id="about" class="about">
@@ -152,16 +143,16 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Better accessibility</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Easy customization and monitor</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Single/Multitenant architecture</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Better accessibility</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Easy customization and monitor</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Single/Multitenant architecture</div></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Point & click for updates</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> No performance issue</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> No compatibility issue with other platforms</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Point & click for updates</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> No performance issue</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> No compatibility issue with other platforms</div></li>
             </ul>
           </div>
           

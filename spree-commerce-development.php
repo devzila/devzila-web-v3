@@ -63,52 +63,41 @@
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4><a href="">No Complexity, Easy to use</a></h4>
+              <h4>No Complexity, Easy to use</h4>
               <p>It is very easy to install and configure Spree. Adding functionalities and integrations with other platforms and services is a cakewalk. The user interface is clean and simple as well.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4><a href="">Built on Ruby on Rails</a></h4>
+              <h4>Built on Ruby on Rails</h4>
               <p>Spree is created on top of the hugely popular and robust Ruby on Rails framework that empowers agile dispatch, easier changes, brings cost-efficiency and takes lesser time to market.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4><a href="">No License Fee</a></h4>
+              <h4>No License Fee</h4>
               <p>Being completely open source, there is no license fee involved in procuring Spree. There aren’t different free or enterprise editions either. It’s the same software suited for one and all – small, medium or large businesses</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
-              <h4><a href="">Mobile Compatibility</a></h4>
+              <h4>Mobile Compatibility</h4>
               <p>The responsive UI design of Spree lets you run your store on smart-phones and tablets seamlessly.</p>
             </div>
           </div>
 
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-        </div>
-
-        <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"> </div>
-              <h4><a href="">Integration with Other Services</a></h4>
+              <h4>Integration with Other Services</h4>
               <p>Wombat – the integration platform lets you connect your store to key third party systems as well as your own custom built integrations.</p>
             </div>
           </div>
@@ -116,14 +105,16 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">A Complete Solution</a></h4>
+              <h4>A Complete Solution</h4>
               <p>Spree is a complete solution with features such as Product Catalogue, Marketing & Promotions, Payments, Shipping, Analytics & Reporting, SEO and more.</p>
             </div>
           </div>
+
         </div>
 
       </div>
-    </section>
+    </section><!-- End Services Section -->
+   
     <!-- End Services Section -->
   
     <!-- ======= Cta Section ======= -->
@@ -136,13 +127,13 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> With over 17 years of experience, Devzila has worked with startups and enterprise clients alike. We have an excellent track record of quality delivery across industries and geographies.
-              <li><i class="ri-check-double-line"></i> Our team comprises of Spree e-commerce store development experts who can customize the platform to any extent to suit your unique business needs.</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> With over 17 years of experience, Devzila has worked with startups and enterprise clients alike. We have an excellent track record of quality delivery across industries and geographies.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Our team comprises of Spree e-commerce store development experts who can customize the platform to any extent to suit your unique business needs.</div></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="ri-check-double-line"></i> Devzila can develop, deploy, manage and scale your ecommerce store, all under one roof.</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Devzila can develop, deploy, manage and scale your ecommerce store, all under one roof.</div></li>
               
             </ul>
           </div>
@@ -161,7 +152,7 @@
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"> </div>
               <h4>Spree eCommerce Store Development</h4>
               
@@ -169,7 +160,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Spree Store customization</h4>
               
@@ -177,7 +168,7 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Spree Theme Development</h4>
               
@@ -185,10 +176,23 @@
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
+            <div class="icon-box" style="margin-bottom: 30px;">
               <div class="icon"></div>
               <h4>Spree Theme Customization</h4>
               
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box" style="margin-bottom: 30px;">
+              <div class="icon"></div>
+              <h4>Custom Spree extension development</h4>
+            </div>
+          </div>
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box" style="margin-bottom: 30px;">
+              <div class="icon"></div>
+              <h4>Migration To Spree</h4>
             </div>
           </div>
 
@@ -196,30 +200,7 @@
 
       </div>
     </section><!-- End Services Section -->
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"></div>
-              <h4>Custom Spree extension development</h4>
-            </div>
-          </div>
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"></div>
-              <h4>Migration To Spree</h4>
-            </div>
-          </div>
-
-          
-          
-          
-        </div>
-
-      </div>
-    </section>
+    
     <!-- End Services Section -->
 
     <section id="clients" class="clients section-bg">

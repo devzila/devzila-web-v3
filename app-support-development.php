@@ -78,7 +78,7 @@
             <div class="icon-box">
               <div class="icon"> </div>
               <h4><a href=""></a></h4>
-              <h3>24x7 Support</h3>
+              <h3>24x7 Support System</h3>
             </div>
           </div>
 

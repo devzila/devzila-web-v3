@@ -89,7 +89,7 @@
               </div>
             </div>
           </li>
-          <li><a class="nav-link scrollto " href="index.php">Project</a></li>
+          <li><a class="nav-link scrollto " href="project.php">Project</a></li>
           <li><a class="nav-link scrollto" href="about.php">About</a></li>
           <li><a class="nav-link   scrollto" href="how-we-work.php">How we Work</a></li>
           <li><a class="nav-link scrollto" href="resources.php">Resources</a></li>

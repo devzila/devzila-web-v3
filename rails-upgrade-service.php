@@ -120,17 +120,17 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We’ve been researching, experimenting and working with Ruby on Rails technology since its formative days.
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> We’ve been researching, experimenting and working with Ruby on Rails technology since its formative days.</div>
               </li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Our experience can sure prove advantageous for you at conducting the upgrade efficiently.</li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Our experience can sure prove advantageous for you at conducting the upgrade efficiently.</div></li>
               
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Our team of Rails experts can help you with a quick and effective audit of your application to figure out the potential challenges while making the upgrade to get prepared for it in advance.</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> With our industry leadership, we have the knowledge & experience to prove as a guiding hand for your business during the entire process so you can get it right the first time..</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Our team of Rails experts can help you with a quick and effective audit of your application to figure out the potential challenges while making the upgrade to get prepared for it in advance.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> With our industry leadership, we have the knowledge & experience to prove as a guiding hand for your business during the entire process so you can get it right the first time.</div></li>
             </ul>
           </div>
         </div>

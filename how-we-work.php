@@ -179,18 +179,18 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Save time and money early on
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Save time and money early on</div>
               </li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Understand users and their needs</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Identify and mitigate future risks</li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Understand users and their needs</div></li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Identify and mitigate future risks</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Define the redesign direction and crucial points</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Refine product vision and business goals</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Ideate based on the learning and data</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Define the redesign direction and crucial points</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Refine product vision and business goals</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Ideate based on the learning and data</div></li>
             </ul>
           </div>
         </div>
@@ -227,17 +227,17 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Meet the team</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Set up communications</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Start the project</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Meet the team</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Set up communications</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Start the project</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Set up development environment</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Establish relevant tools and technologies</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Create backlog of features for design and development</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Set up development environment</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Establish relevant tools and technologies</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Create backlog of features for design and development</div></li>
             </ul>
           </div>
         </div>
@@ -260,16 +260,16 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Demonstrable mockups
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Demonstrable mockups</div>
               </li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> UX/UI and the user journey</li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> UX/UI and the user journey</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Clickable or tappable prototypes</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Product design Analyze, Measure and UI design</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Clickable or tappable prototypes</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Product design Analyze, Measure and UI design</div></li>
               
             </ul>
           </div>
@@ -309,16 +309,16 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"><strong> Team Extension - </strong>Need on-demand developers to continuously support your business? We’ve got you covered. Check out our team extension services.
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"><strong> Team Extension - </strong>Need on-demand developers to continuously support your business? We’ve got you covered. Check out our team extension services.</div>
               </li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> <strong> Continuous Maintenance - </strong>Software never sleeps. Devzila can keep your business’s software up to date on a regular basis, preventing security flaws and paving the way for new features.</li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> <strong> Continuous Maintenance - </strong>Software never sleeps. Devzila can keep your business’s software up to date on a regular basis, preventing security flaws and paving the way for new features.</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"><strong> Customer-driven Features - </strong>After launch, your customers and stakeholders will likely have feature requests and Devzila helps you implement new product features with ease.</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"><strong> Bug Fixing - </strong>Rely on Devzila to handle bug reports and fix your code efficiently and quickly—it makes all the difference to satisfied customers.</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"><strong> Customer-driven Features - </strong>After launch, your customers and stakeholders will likely have feature requests and Devzila helps you implement new product features with ease.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"><strong> Bug Fixing - </strong>Rely on Devzila to handle bug reports and fix your code efficiently and quickly—it makes all the difference to satisfied customers.</div></li>
               
             </ul>
           </div>
@@ -428,9 +428,7 @@
       </div>
     </section>
     <!-- End Services Section -->
-    
-    
-
+  
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
       <div class="container" data-aos="zoom-in">

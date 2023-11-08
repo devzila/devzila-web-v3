@@ -83,19 +83,19 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We Are A Group of Passionate Ruby and Node Developer. Hire experts well-versed 
-                with the latest tools and technologies to deliver exceptional applications
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> We Are A Group of Passionate Ruby and Node Developer. Hire experts well-versed 
+                with the latest tools and technologies to deliver exceptional applications</div>
               </li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> With over a decade of experience in developing, maintaining and deploying a varied range of RoR and MERN solutions</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Time-tested solutions, experience & thoughts on web & mobile development, tonnes of remote work hacks. We help non-technical founders grow successful distributed teams.</li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> With over a decade of experience in developing, maintaining and deploying a varied range of RoR and MERN solutions</div></li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Time-tested solutions, experience & thoughts on web & mobile development, tonnes of remote work hacks. We help non-technical founders grow successful distributed teams.</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Our unique mix of skills allows us to have a wide offering including consultancy, design, architecture, development, operations, training, and support—without the overheads</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We employ technologies up to date with the latest industry standards.</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Our unique mix of skills allows us to have a wide offering including consultancy, design, architecture, development, operations, training, and support—without the overheads</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> We employ technologies up to date with the latest industry standards.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</div></li>
             </ul>
           </div>
           <div class="text-center"><a href="#" class="btn-learn-more nav-link">Learn More</a></div>
@@ -118,7 +118,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"> <img src="assets/img/ui.png"></div>
-              <h4><a href="">UI/UX Design</a></h4>
+              <h4>UI/UX Design</h4>
               <p>First impressions matter! UX design is one of the success factors.</p>
             </div>
           </div>
@@ -126,7 +126,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><img src="assets/img/Custm-rails.png"></div>
-              <h4><a href="">Custom Rails App Development</a></h4>
+              <h4>Custom Rails App Development</h4>
               <p>Get fabulous, personalized and intelligent solutions to meet all your business needs.</p>
             </div>
           </div>
@@ -134,7 +134,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><img src="assets/img/product.png"></div>
-              <h4><a href="">Build A Product With Us</a></h4>
+              <h4>Build A Product With Us</h4>
               <p>We give you bespoke, seamless and secure solutions, aiding you to reach your maximum potential.</p>
             </div>
           </div>
@@ -142,7 +142,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"><img src="assets/img/ror.png"></div>
-              <h4><a href="">Hire Ruby On Rails Developers</a></h4>
+              <h4>Hire Ruby On Rails Developers</h4>
               <p>Hire RoR Experts well-versed with the latest tools and technologies to deliver exceptional applications.</p>
             </div>
           </div>

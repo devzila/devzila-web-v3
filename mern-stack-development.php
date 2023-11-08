@@ -55,7 +55,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"> </div>
-              <h4><a href="">Enterprise Application Development</a></h4>
+              <h4>Enterprise Application Development</h4>
               <p>Develop enterprise-grade web applications with Devzila. By combining MERN technologies with cutting-edge enterprise solutions, we can develop cutting-edge solutions. The solutions we create are tailored for high-intensive workloads and are designed specifically for enterprise customers.</p>
             </div>
           </div>
@@ -63,7 +63,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Custom Application Development</a></h4>
+              <h4>Custom Application Development</h4>
               <p>We Build dynamic web applications and websites using MERN Stack is possible across a wide range of business verticals. To provide quality and standards-compliant solutions tailored to your needs, our MERN stack developers use the best coding approaches and methodologies.</p>
             </div>
           </div>
@@ -71,7 +71,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Web Application Development</a></h4>
+              <h4>Web Application Development</h4>
               <p>We Design and develop web applications that are fast, secure, dynamic, and well-suited to various kinds of businesses. MERN developers are well-versed in the underlying technologies and can deliver rich user experiences and excellent functionality with complex web applications.</p>
             </div>
           </div>
@@ -79,7 +79,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">CMS Development</a></h4>
+              <h4>CMS Development</h4>
               <p>Using our expertise and deep knowledge of MERN stack development, we will create a highly-performance, feature-rich, scalable, secure, user-friendly, and scalable content management system. Our CMS will be robust and feature-rich.</p>
             </div>
           </div>
@@ -95,7 +95,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">eCommerce Application Development</a></h4>
+              <h4>eCommerce Application Development</h4>
               <p>Take advantage of our expertise as a MERN stack development company to create a variety of solutions. Ecommerce solutions are another area in which our MERN stack developers excel. Dashboards for ecommerce sites can be built by our developers in a responsive, intuitive, and secure way.</p>
             </div>
           </div>
@@ -103,7 +103,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Porting & Migration</a></h4>
+              <h4>Porting & Migration</h4>
               <p>Our proficiency extends to migrating and porting business applications and platforms to MERN Stack-based frameworks. For migration or porting of your application, you can hire a MERN Stack developer.</p>
             </div>
           </div>
@@ -124,7 +124,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Scalable to any size</a></h4>
+              <h4>Scalable to any size</h4>
               <p>The website or web application you receive will be highly scalable.</p>
             </div>
           </div>
@@ -132,7 +132,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Ensure security</a></h4>
+              <h4>Ensure security</h4>
               <p>You can rely on us to integrate the best security features and functionality into your app or website.</p>
             </div>
           </div>
@@ -140,7 +140,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">A mobile-friendly website</a></h4>
+              <h4>A mobile-friendly website</h4>
               <p>Regardless of the device, we will develop a responsive web app or site.</p>
             </div>
           </div>
@@ -148,7 +148,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">The best UI/UX</a></h4>
+              <h4>The best UI/UX</h4>
               <p>There will be a great look and feel to your web app or website, which will entice users.</p>
             </div>
           </div>
@@ -172,18 +172,17 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Framework for Javascript - NodeJS, ReactJS, AngularJS, and VueJS
-              </li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Technologies for the web - YII | WordPress | Magento | WOO | Shopify | PrestaShop | CodeIgniter | Laravel | MERN | MEAN | LAMP</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> The database FireBase, MySQL, and PostgreSQL</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Framework for Javascript - NodeJS, ReactJS, AngularJS, and VueJS</div></li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Technologies for the web - YII | WordPress | Magento | WOO | Shopify | PrestaShop | CodeIgniter | Laravel | MERN | MEAN | LAMP</div></li>
+              <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">The database FireBase, MySQL, and PostgreSQL</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Technologies for mobile devices React Native, Swift, and Java</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We employ technologies up to date with the latest industry standards.</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> Technologies for mobile devices React Native, Swift, and Java </div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> We employ technologies up to date with the latest industry standards.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> We’re eager to share with you our knowledge and experience. Great Applications are not borne, they are created and thats precisely what we do FOR YOU</div></li>
             </ul>
           </div>
         </div>

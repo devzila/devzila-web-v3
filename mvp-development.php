@@ -75,7 +75,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"> </div>
-              <h4><a href="">Product discovery</a></h4>
+              <h4>Product discovery & approach</h4>
     
             </div>
           </div>
@@ -83,7 +83,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">  Approach and Estimate  </a></h4>
+              <h4>  Approach and Estimate </h4>
               
             </div>
           </div>
@@ -91,7 +91,7 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">  Design and Development </a></h4>
+              <h4> Design and Development </h4>
               
             </div>
           </div>
@@ -99,23 +99,23 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"></div>
-              <h4><a href="">Agile Development</a></h4>
+              <h4>Agile Development</h4>
               
             </div>
           </div>
-          <div class="row content">
+          <div class="row content" style="margin-top: 10px;">
           <div class="col-lg-6">
-            <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Firstly, we will aim our target and start the process of core features and solve the problems.
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Secondly, we approach, estimate; see the tech and the architecture.</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Next comes to design and its development, here we make sure whether design is building and developing or not.</li>
+            <ul style="list-style-type: none;">
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Firstly, we will aim our target and start the process of core features and solve the problems.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Secondly, we approach, estimate; see the tech and the architecture.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Next comes to design and its development, here we make sure whether design is building and developing or not.</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
-            <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> We will add feedback according to customer and add more features</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> And finally, we will launch it and maintain the feedback and improve us.</li>
+            <ul style="list-style-type: none;">
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;"> We will add feedback according to customer and add more features</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">And finally, we will launch it and maintain the feedback and improve us.</div></li>
               
             </ul>
           </div>
@@ -139,15 +139,15 @@
         <div class="row content">
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> MVP developments will help businesses to create a useable prototype of the product and to access the ideas and ensure the correctness of the business plan.
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> Validation testing is performed which will benefit the user by focusing on giving valuable feedback on the UI experience.</li>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> The team will be able to think thoroughly about the product architecture and it acts as a chance to influence the development process.</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">MVP developments will help businesses to create a useable prototype of the product and to access the ideas and ensure the correctness of the business plan.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">Validation testing is performed which will benefit the user by focusing on giving valuable feedback on the UI experience.</div></li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15"> <div style="margin-left: 10px;">The team will be able to think thoroughly about the product architecture and it acts as a chance to influence the development process.</div></li>
             </ul>
           </div>
 
           <div class="col-lg-6">
             <ul>
-              <li><img src="assets/img/ruby-icon.png" width="20" height="20"> As we build the product and test the experience and viability, it will drive the product vision in the right direction and also it helps to get a transparent and solidified picture in the market scenarios.</li>
+            <li style="display: flex; align-items: flex-start;"><img src="assets/img/ruby-icon.png" width="15" height="15">  <div style="margin-left: 10px;">As we build the product and test the experience and viability, it will drive the product vision in the right direction and also it helps to get a transparent and solidified picture in the market scenarios.</div></li>
               
             </ul>
           </div>
