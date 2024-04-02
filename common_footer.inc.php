@@ -36,7 +36,7 @@
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Contacts</h4>
-            <strong>Phone:</strong> +91 9876727393<br>
+            <strong>Phone:</strong> +91 7986844056<br>
             <strong>Email:</strong> info@devzila.com<br>
             <div class="social-links mt-3">
               <a href="https://twitter.com/devzila/" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>

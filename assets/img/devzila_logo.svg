@@ -5,6 +5,8 @@
  width="104.000000pt" height="120.000000pt" viewBox="0 0 104.000000 120.000000"
  preserveAspectRatio="xMidYMid meet">
 
+ <rect width="104" height="120" rx="0" ry="0" fill="#fff" stroke-width="0"/>
+
 <g transform="translate(0.000000,120.000000) scale(0.100000,-0.100000)"
 fill="#FF0000" stroke="none">
 <path d="M130 966 l0 -146 268 0 267 -1 128 -151 128 -152 -3 190 c-3 164 -6

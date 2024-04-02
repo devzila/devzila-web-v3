@@ -70,7 +70,7 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+91 9876727393</p>
+                <p>+91 7986844056</p>
               </div>
 
               <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d27446.557256955857!2d76.84732661184083!3d30.69534982827685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x390f937734cffb3b%3A0x8602c697784e1f8c!2sDevzila%20Software%20Solutions%2C%20SCO%2096%20Ground%20Floor%2C%20Sector%205%2C%20Panchkula%2C%20Haryana%20134109!3m2!1d30.700972!2d76.85493199999999!5e0!3m2!1sen!2sin!4v1674999438488!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
